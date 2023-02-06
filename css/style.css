@@ -84,3 +84,10 @@ i:hover {
 	border-radius: 50%;
 	width: 200px;
 }
+
+.footer {
+	width: 100vw;
+	display: flex;
+	justify-item: center;
+	
+}
